@@ -1,0 +1,9 @@
+# Chapter 1
+
+The purpose of this book is to create a template for all of the other books that will come after this one. This is a test of the writing environment that will be used for the future creation of the Haskell book that I will be writing. It will be based on the rust book as well as all of the haskell books that have come out before. The examples and the source code will be changed and all of the text will be mostly inspired by great books like learn you a haskell and haskell from fist principles which is a book that is not available in epub formats or in online rust mdbook format.
+
+We will go over the compiler versions and other settings that will be used to setup.
+
+the next versions of the book will incorporate new code from other programming languages along with  new algorithms and other sections of books and topics that people would like to visit. we would like to make this book the central repository for haskell programming language education and resources.
+
+most of the information witheld here 
